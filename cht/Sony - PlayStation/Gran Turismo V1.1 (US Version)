@@ -1,0 +1,101 @@
+cheats = 25 
+
+cheat0_desc = "1 Billion Dollars"
+cheat0_code = "8009B8F4+CA00+8009B8F6+3B9A"
+cheat0_enable = false 
+
+cheat0_desc = "B-Class License Gold Test 1"
+cheat0_code = "3009E444+0003"
+cheat0_enable = false 
+
+cheat0_desc = "B-Class License Gold Test 2"
+cheat0_code = "3009E445+0003"
+cheat0_enable = false 
+
+cheat0_desc = "B-Class License Gold Test 3"
+cheat0_code = "3009E446+0003"
+cheat0_enable = false 
+
+cheat0_desc = "B-Class License Gold Test 4"
+cheat0_code = "3009E447+0003"
+cheat0_enable = false 
+
+cheat0_desc = "B-Class License Gold Test 5"
+cheat0_code = "3009E448+0003"
+cheat0_enable = false 
+
+cheat0_desc = "B-Class License Gold Test 6"
+cheat0_code = "3009E449+0003"
+cheat0_enable = false 
+
+cheat0_desc = "B-Class License Gold Test 7"
+cheat0_code = "3009E44A+0003"
+cheat0_enable = false 
+
+cheat0_desc = "B-Class License Gold Test 8"
+cheat0_code = "3009E44B+0003"
+cheat0_enable = false 
+
+cheat0_desc = "A-Class License Gold Test 1"
+cheat0_code = "3009E44C+0003"
+cheat0_enable = false 
+
+cheat0_desc = "A-Class License Gold Test 2"
+cheat0_code = "3009E44D+0003"
+cheat0_enable = false 
+
+cheat0_desc = "A-Class License Gold Test 3"
+cheat0_code = "3009E44E+0003"
+cheat0_enable = false 
+
+cheat0_desc = "A-Class License Gold Test 4"
+cheat0_code = "3009E4FC+0003"
+cheat0_enable = false 
+
+cheat0_desc = "A-Class License Gold Test 5"
+cheat0_code = "3009E450+0003"
+cheat0_enable = false 
+
+cheat0_desc = "A-Class License Gold Test 6"
+cheat0_code = "3009E451+0003"
+cheat0_enable = false 
+
+cheat0_desc = "A-Class License Gold Test 7"
+cheat0_code = "3009E452+0003"
+cheat0_enable = false 
+
+cheat0_desc = "A-Class License Gold Test 8"
+cheat0_code = "3009E453+0003"
+cheat0_enable = false 
+
+cheat0_desc = "International A-Class License Gold Test 1"
+cheat0_code = "3009E454+0003"
+cheat0_enable = false 
+
+cheat0_desc = "International A-Class License Gold Test 2"
+cheat0_code = "3009E455+0003"
+cheat0_enable = false 
+
+cheat0_desc = "International A-Class License Gold Test 3"
+cheat0_code = "3009E456+0003"
+cheat0_enable = false 
+
+cheat0_desc = "International A-Class License Gold Test 4"
+cheat0_code = "3009E457+0003"
+cheat0_enable = false 
+
+cheat0_desc = "International A-Class License Gold Test 5"
+cheat0_code = "3009E458+0003"
+cheat0_enable = false 
+
+cheat0_desc = "International A-Class License Gold Test 6"
+cheat0_code = "3009E459+0003"
+cheat0_enable = false 
+
+cheat0_desc = "International A-Class License Gold Test 7"
+cheat0_code = "3009E45A+0003"
+cheat0_enable = false 
+
+cheat0_desc = "International A-Class License Gold Test 8"
+cheat0_code = "3009E4B3+0003"
+cheat0_enable = false 
